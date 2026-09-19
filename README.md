@@ -48,11 +48,6 @@ I enjoy building practical projects using Python, Machine Learning, Data Analysi
 
 ##  Featured Projects
 
-###  Customer Churn Prediction & Retention System
-Machine Learning project that predicts customers who are likely to churn and provides retention recommendations.
-
-**Technologies:** Python, Pandas, Scikit-learn, Streamlit, SQLite
-
 ###  PDI Report Generator
 A Streamlit-based application that generates professional vehicle inspection reports in PDF format.
 
@@ -62,7 +57,11 @@ A Streamlit-based application that generates professional vehicle inspection rep
 A web-based finance management application for tracking financial information and portfolio data.
 
 **Technologies:** Python, Flask, SQLite, APIs
+# Working on-
+###  Customer Churn Prediction & Retention System
+Machine Learning project that predicts customers who are likely to churn and provides retention recommendations.
 
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit, SQLite
 ##  Currently Learning
 
 - Advanced Machine Learning
